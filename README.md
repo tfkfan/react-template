@@ -6,7 +6,7 @@
 
 <h4 align="center">
 A react app starter template 
-
+<br>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" title="License: MIT" >
     <img src="https://img.shields.io/badge/License-MIT-greenbright.svg?style=flat-square">
