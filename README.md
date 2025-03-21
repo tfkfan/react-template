@@ -14,8 +14,6 @@ A react app starter template
   </a>
 </p>
 
----
-
 ## Development
 
 The build system will install automatically the recommended version of Node and npm.
